@@ -1,5 +1,5 @@
 {
-  "name": "cucumber-junit-convert",
+  "name": "@mourasman/cucumber-junit-convert",
   "version": "2.1.0",
   "description": "",
   "main": "index.js",
